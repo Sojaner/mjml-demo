@@ -1,4 +1,4 @@
-<mj-include path="./styling.mjml" />
+<mj-include path="styling.mjml" />
 
 <mj-section css-class="bg-white">
   <mj-column padding="32px 48px">

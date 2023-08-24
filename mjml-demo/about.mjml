@@ -1,7 +1,7 @@
 <mjml>
   <mj-body>
-    <mj-include path="./styling.mjml" />
-    <mj-include path="./header.mjml" />
+    <mj-include path="styling.mjml" />
+    <mj-include path="header.mjml" />
 
     <mj-section css-class="bg-white">
       <mj-column>
@@ -11,6 +11,6 @@
       </mj-column>
     </mj-section>
     
-    <mj-include path="./footer.mjml" />
+    <mj-include path="footer.mjml" />
   </mj-body>
 </mjml>

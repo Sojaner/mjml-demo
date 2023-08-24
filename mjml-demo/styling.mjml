@@ -5,37 +5,8 @@
       .bg-dark {
       	background: #2F5854 !important;
       }
-      .bg-mint {
-      	background: #FDFFEE !important;
-      }
       .bg-white {
       	background: #FFFFFF !important;
-      }
-      .bg-body {
-      	background: #EAEEEE !important;
-      }
-      .desktop-column,
-      .desktop-section,
-      .desktop-block {
-      	display: none !important;
-      }
-      @media only screen and (min-width: 480px) {
-        .desktop-column {
-          display: inline-block !important;
-        }
-        .desktop-section,
-        .desktop-block {
-          display: block !important;
-        }
-      	.desktop-column-nopr td {
-      		padding-right: 0 !important;
-        }	
-      }
-      h2 {
-      	font-size: 20px !important;
-      	font-weight: 400 !important;
-      	line-height: 30px !important;
-      	margin: 0;
       }
       p {
       	font-size: 16px !important;
@@ -43,19 +14,10 @@
       	line-height: 24px !important;
       	margin: 0;
       }
-      b {
-      	font-weight: 600 !important;
-      }
-      .link, .link:hover,
-      .link:active, .link:focus {
-      	font-weight: 600 !important;
-      	color: #2F5854 !important;
-      	text-decoration: underline !important;
-      }
     </mj-style>
     <mj-attributes>
-      <mj-divider border-width="1px" border-style="solid" border-color="#2F5854" padding="0 16px" />
       <mj-body background-color="#EAEEEE" width="636px" />
+      <mj-divider border-width="1px" border-style="solid" border-color="#2F5854" padding="0 16px" />
       <mj-all font-family="Open Sans" font-size="16px" font-weight="400" color="#1E3432" padding="0" align="left" />
     </mj-attributes>
   </mj-head>
